@@ -14,7 +14,7 @@ class CourseCard extends StatelessWidget {
         ClipRRect(
           borderRadius: BorderRadius.circular(10),
           child: Image.asset(
-            '$imagePath/images/offer3.jpg',
+            '$imagePath/images/offer.png',
             height: double.infinity,
             width: double.infinity,
             fit: BoxFit.cover,
