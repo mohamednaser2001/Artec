@@ -1,4 +1,5 @@
-# Artic Project (It's the design only / all data is static until now).
+# Artic Project 
+### (It's the design only / all data is static until now).
 
 It is the application of college exams that require an aptitude test for the application such as the Faculty of Arts.
 
